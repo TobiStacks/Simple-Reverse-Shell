@@ -2,6 +2,7 @@
 Here is a simple reverse shell server and client script I created on my ethical hacking journey!
 
 ## How to run:
+* Install and run Python2.7
 * Clone the repository
 * Open 2 command line terminals
 * Navigate to where the cloned folder is
